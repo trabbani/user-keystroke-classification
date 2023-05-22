@@ -1,0 +1,50 @@
+.
+├── config
+│   └── config.yaml
+├── data
+│   └── raw
+│       └── data.zip
+├── keystrokes
+│   ├── data
+│   │   ├── data_download.py
+│   │   ├── data_utils.py
+│   │   ├── download_utils.py
+│   │   └── __init__.py
+│   ├── features
+│   │   ├── example_creation.py
+│   │   ├── example_generation.py
+│   │   ├── feature_generation.py
+│   │   └── __init__.py
+│   ├── __init__.py
+│   ├── pipelines
+│   │   ├── feature_pipeline.py
+│   │   └── __init__.py
+│   ├── transformers
+│   │   ├── combined_transformer.py
+│   │   ├── difference_transformer.py
+│   │   ├── __init__.py
+│   │   ├── keyboard_event_transformer.py
+│   │   ├── key_code_median_transformer.py
+│   │   └── transpose_transformer.py
+│   └── utils
+│       ├── config_utils.py
+│       ├── __init__.py
+│       ├── model_utils.py
+│       └── path_utils.py
+├── notebooks
+│   └── dev
+│       ├── demo_train_v2.ipynb
+│       ├── dev2.ipynb
+│       ├── dev3.ipynb
+│       ├── filename.joblib
+│       ├── test.ipynb
+│       ├── todelete.csv
+│       └── train_demo.ipynb
+├── README.md
+├── requirements.txt
+├── tests
+│   └── utils
+│       └── test_path_utils.py
+└── tree.txt
+
+13 directories, 34 files
