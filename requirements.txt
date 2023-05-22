@@ -1,0 +1,4 @@
+pandas==2.0.1
+scikit-learn==1.2.2
+snakemake==7.25.4
+PyYAML==6.0
