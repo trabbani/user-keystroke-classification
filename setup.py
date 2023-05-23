@@ -9,6 +9,8 @@ setup(
     url='https://github.com/your-username/user-keystroke-classification',
     packages=find_packages(),
     install_requires=[
+        'numpy==1.23.5',
+        'shap==0.41.0',
         'scikit-learn>=1.2.2',
         'seaborn>=0.12.2',
         'tqdm>=4.65.0',
