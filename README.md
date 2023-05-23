@@ -91,10 +91,10 @@ The following notebooks are available in the `notebooks/demo` directory:
   This notebook demonstrates how to train the XGBoost model using the raw keystroke data.
 
 - **Metrics for Balanced Data**: [demo_balanced_metrics.ipynb](notebooks/demo/demo_balanced_metrics.ipynb)
-  This notebook showcases the evaluation metrics and performance analysis for the model trained on balanced data.
+  This notebook showcases the evaluation metrics and performance analysis for the model on balanced data.
 
 - **Metrics for Rare Positive Instances**: [demo_minority_metrics.ipynb](notebooks/demo/demo_minority_metrics.ipynb)
-  This notebook focuses on the evaluation metrics and performance analysis for the model trained on imbalanced data with rare positive instances.
+  This notebook focuses on the evaluation metrics and performance analysis for the model on imbalanced data with rare positive instances.
 
 It is suggested to follow the order mentioned above when browsing the notebooks to understand the workflow and the analyses performed.
 
